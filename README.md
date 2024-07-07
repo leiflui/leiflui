@@ -8,7 +8,7 @@ My current research interests are BH physics, BH perturbation theory, GW physics
 Other interests of mine include complex systems, biophysics, fluid dynamics, Higgs physics, baryogenesis, inflationary cosmology, lepton flavor violation, neutrino cosmology, gauge theory, supersymmetry, and supergravity.
 ## Languages that I frequently use
 As a theorist, I mainly come up with mathematical models for physical phenomena and do many analytic/numerical calculations. For algebraic calculations and solving equations with analytic solutions, I primarily use Mathematica as it is a very user-friendly algebra-handling language. For numerical calculations, I mainly use Python and Matlab, as they both have packages optimized for things like numerical integration, matrix operations, Markov-Chain-Monte-Carlo (MCMC) simulations, etc. I seldom use C/C++, as most of the calculations done in the languages above are sufficiently fast. I mainly use C++ for things like geodesic ray-tracing (GRT). Below are the languages summarized in a pie chart:
-<a href="[https://github.com/anuraghazra/github-readme-stats](https://github.com/leiflui/github-readme-stats)">
-  <img height=400 align="center" src="[https://github-readme-stats.vercel.app/api?username=leiflui](https://github-readme-stats.vercel.app/api/top-langs/?username=leiflui&layout=pie&theme=dark)" />
+<a href="https://github.com/leiflui/github-readme-stats">
+  <img align="center" src="[https://github-readme-stats.vercel.app/api/pin/?username=leiflui&repo=github-readme-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=leiflui&layout=pie)](https://github.com/leiflui/github-readme-stats)" />
 </a>
 
