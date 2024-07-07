@@ -1,4 +1,3 @@
-# About me
 ## Short Bio
 I am a doctoral student (PhD) researching theoretical black hole (BH) physics at the University of Hong Kong. My supervisor is Prof. Jane Lixin Dai, an associate professor in the Department of Physics doing research on tidal disruption events (TDEs), general-relativistic-magnetohydrodynamic (GRMHD) simulations of jets and accretion disks, X-ray reverberations, and many other topics in high-energy astrophysics.
 
