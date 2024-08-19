@@ -1,0 +1,32 @@
+name: Generate Language Stats
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs daily
+  workflow_dispatch:
+
+jobs:
+  generate-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: '16'
+
+      - name: Install gh-lang-stats
+        run: npm install -g gh-lang-stats
+
+      - name: Generate language stats
+        run: gh-lang-stats --token ${{ secrets.GITHUB_TOKEN }} --output stats.svg --transform 'Jupyter Notebook:Python'
+
+      - name: Commit changes
+        run: |
+          git config --local user.name "GitHub Actions"
+          git config --local user.email "actions@github.com"
+          git add stats.svg
+          git commit -m "Update language stats" || echo "No changes"
+          git push
