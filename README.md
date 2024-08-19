@@ -13,6 +13,4 @@ As a theorist, I mainly come up with mathematical models for physical phenomena 
   <img height=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=leiflui&layout=pie&theme=aura&langs_count=5&card_width=320" />
 </a>
 </div>
-## About Me
 
-![Most Used Languages](https://raw.githubusercontent.com/leiflui/leiflui/main/stats.svg)
