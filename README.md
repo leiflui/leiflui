@@ -14,5 +14,5 @@ As a theorist, I mainly come up with mathematical models for physical phenomena 
 </a>
 ## About Me
 
-![Most Used Languages](https://raw.githubusercontent.com/leiflui/<repo-name>/main/stats.svg)
+![Most Used Languages](https://raw.githubusercontent.com/leiflui/leiflui/main/stats.svg)
 </div>
