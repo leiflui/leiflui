@@ -1,6 +1,14 @@
 ## About me
 I am a doctoral student (PhD) researching theoretical black-hole (BH) physics at the University of Hong Kong. My supervisor is Prof. Jane Lixin Dai, an associate professor in the Department of Physics doing research on tidal disruption events (TDEs), general-relativistic-radiative-magnetohydrodynamic (GRRMHD) simulations of jets and accretion disks, X-ray reverberations, and a plethora of other topics in high-energy astrophysics regarding BHs.
 
+My research area is theoretical physics, specifically focusing on black holes and gravitational waves. Gravitational waves have opened new avenues of exploring the universe, and enriched our understanding of the dynamics of black-hole binaries. I hope that my work on gravitational-wave templates will usher in a new era of gravitational-wave astronomy with space-based detectors like LISA and TianQin.
+
+
+My research integrates analytical approximations, numerical simulations, and machine learning to model astrophysical systems involving intermediate/extreme-mass-ratio inspirals (IMRIs/EMRIs). Analytical approximations, such as black-hole perturbation theory, serve as the foundation for modeling black-hole spacetimes of IMRIs/EMRIs. Numerical simulations, such as geodesic ray tracing (GRT), are invaluable tools for modeling IMRI/EMRI orbits with more nuanced physical effects like orbiter-gas/disk interactions and tidal stripping. The unison of these techniques allows us to compute the gravitational-wave signal for more complex IMRI/EMRI systems, and the coupling of machine learning significantly aids in streamlining these intensive calculations.
+
+
+Recently, I have been applying these techniques to model the gravitational-wave signals for quasi-periodic eruptions, tidal disruption events, and IMRIs/EMRIs in nuclear clusters. The goal is to provide a template for observers to reference for future detection with space-based gravitational-wave detectors, and enhance our understanding of the environments around IMRIs/EMRIs. 
+
 I was a former undergraduate physics researcher at CUHK, LIGO, and CERN. I conducted research on various topics in theoretical/computational physics, namely gravitational physics, cosmology, and elementary particle physics. In particular, I used gravitational waves (GWs) to test general relativity (GR), and used ATLAS data to test the standard model (SM).
 
 My current research interests are BH physics, BH perturbation theory, GW physics, quasi-periodic eruptions (QPEs), quasi-periodic oscillations (QPOs), TDEs, tests of GR, numerical GR simulations, X-ray reverberation, mathematical theory of BHs, and theories of gravity beyond GR.
